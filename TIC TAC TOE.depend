@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488364001 source:h:\3rdsemm\tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
